@@ -8,7 +8,7 @@
 #### GUI personalizzate Hackintosh Life:
 
 ## Esempio
-![GUI](./Icone/GUI.png)
+![GUI](./Icone/background.png)
 
 ## Icone macOS
 ![Monterey](./Icone/Apple12.png)
@@ -40,6 +40,12 @@
 
 ## Icona Linux
 ![Shell](./Icone/Linux.png)
+
+## Icona TM
+![TM](./Icone/AppleTM.png)
+
+## Icona TM Esterna
+![ExtTM](./Icone/ExtAppleTM.png)
 
 ## Icona Shell
 ![Shell](./Icone/Shell.png)
