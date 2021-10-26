@@ -7,7 +7,7 @@
 
 #### GUI personalizzate Hackintosh Life:
 
-## Esempio:
+## Esempio
 ![GUI](./Icone/GUI.png)
 
 ## Icone macOS
@@ -37,6 +37,9 @@
 
 ## Icona Shell
 ![Shell](./Icone/Shell.png)
+
+## Icona Windows
+![Shell](./Icone/Windows.png)
 
 ## Icona Tools
 ![Tools](./Icone/Tools.png)
