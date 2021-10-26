@@ -7,7 +7,7 @@
 
 #### GUI personalizzate Hackintosh Life:
 
-## Esempio
+## Sfondo
 ![GUI](./Icone/background.png)
 
 ## Icone macOS
