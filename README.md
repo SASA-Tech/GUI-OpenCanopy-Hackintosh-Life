@@ -35,11 +35,11 @@
 ![HighSierra](./Icone/ExtAppleRecv10_13.png)
 ![Generic](./Icone/ExtAppleRecv.png)
 
-## Icona Shell
-![Shell](./Icone/Shell.png)
-
 ## Icona Windows
 ![Shell](./Icone/Windows.png)
+
+## Icona Shell
+![Shell](./Icone/Shell.png)
 
 ## Icona Tools
 ![Tools](./Icone/Tools.png)
