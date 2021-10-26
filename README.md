@@ -16,6 +16,7 @@
 ![Catalina](./Icone/Apple10_15.png)
 ![Mojave](./Icone/Apple10_14.png)
 ![HighSierra](./Icone/Apple10_13.png)
+![Generic](./Icone/Apple.png)
 
 ## Icone Recovery
 ![Monterey](./Icone/AppleRecv12.png)
@@ -23,6 +24,7 @@
 ![Catalina](./Icone/AppleRecv10_15.png)
 ![Mojave](./Icone/AppleRecv10_14.png)
 ![HighSierra](./Icone/AppleRecv10_13.png)
+![Generic](./Icone/AppleRecv.png)
 
 ## Icone Recovery Esterne (USB)
 
@@ -31,6 +33,7 @@
 ![Catalina](./Icone/ExtAppleRecv10_15.png)
 ![Mojave](./Icone/ExtAppleRecv10_14.png)
 ![HighSierra](./Icone/ExtAppleRecv10_13.png)
+![Generic](./Icone/ExtAppleRecv.png)
 
 ## Icona Shell
 ![Shell](./Icone/Shell.png)
