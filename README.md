@@ -8,32 +8,32 @@
 #### GUI personalizzate Hackintosh Life:
 
 ## Esempio:
-![GUI](./Screenshot/GUI.png)
+![GUI](./Icone/GUI.png)
 
 ## Icone macOS
-![Monterey](./Screenshot/Apple12.png)
-![Big Sur](./Screenshot/Apple11.png)
-![Catalina](./Screenshot/Apple10_15.png)
-![Mojave](./Screenshot/Apple10_14.png)
-![HighSierra](./Screenshot/Apple10_13.png)
+![Monterey](./Icone/Apple12.png)
+![Big Sur](./Icone/Apple11.png)
+![Catalina](./Icone/Apple10_15.png)
+![Mojave](./Icone/Apple10_14.png)
+![HighSierra](./Icone/Apple10_13.png)
 
 ## Icone Recovery
-![Monterey](./Screenshot/AppleRecv12.png)
-![Big Sur](./Screenshot/AppleRecv11.png)
-![Catalina](./Screenshot/AppleRecv10_15.png)
-![Mojave](./Screenshot/AppleRecv10_14.png)
-![HighSierra](./Screenshot/AppleRecv10_13.png)
+![Monterey](./Icone/AppleRecv12.png)
+![Big Sur](./Icone/AppleRecv11.png)
+![Catalina](./Icone/AppleRecv10_15.png)
+![Mojave](./Icone/AppleRecv10_14.png)
+![HighSierra](./Icone/AppleRecv10_13.png)
 
 ## Icone Recovery Esterne (USB)
 
-![Monterey](./Screenshot/ExtAppleRecv12.png)
-![Big Sur](./Screenshot/ExtAppleRecv11.png)
-![Catalina](./Screenshot/ExtAppleRecv10_15.png)
-![Mojave](./Screenshot/ExtAppleRecv10_14.png)
-![HighSierra](./Screenshot/ExtAppleRecv10_13.png)
+![Monterey](./Icone/ExtAppleRecv12.png)
+![Big Sur](./Icone/ExtAppleRecv11.png)
+![Catalina](./Icone/ExtAppleRecv10_15.png)
+![Mojave](./Icone/ExtAppleRecv10_14.png)
+![HighSierra](./Icone/ExtAppleRecv10_13.png)
 
 ## Icona Shell
-![Shell](./Screenshot/Shell.png)
+![Shell](./Icone/Shell.png)
 
 ## Icona Tools
-![Tools](./Screenshot/Tools.png)
+![Tools](./Icone/Tools.png)
