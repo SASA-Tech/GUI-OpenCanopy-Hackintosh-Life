@@ -16,7 +16,7 @@
 ![Catalina](./Icone/Apple10_15.png)
 ![Mojave](./Icone/Apple10_14.png)
 ![HighSierra](./Icone/Apple10_13.png)
-![Generic](./Icone/Apple.png)
+![Generic](./Icone/HardDrive.png)
 
 ## Icone Recovery
 ![Monterey](./Icone/AppleRecv12.png)
@@ -45,4 +45,4 @@
 ![Shell](./Icone/Shell.png)
 
 ## Icona Tools
-![Tools](./Icone/Tools.png)
+![Tools](./Icone/Tool.png)
