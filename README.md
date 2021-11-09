@@ -5,11 +5,13 @@
 ![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
-#### GUI personalizzate Hackintosh Life:
+#### Sfondi personalizzati Hackintosh Life:
 
 
 
 ![GUI](./Icone/background.png)
+![GUI](./Icone/background2.png)
+![GUI](./Icone/background3.png)
 
 ## Icone macOS
 ![Monterey](./Icone/Apple12.png)
